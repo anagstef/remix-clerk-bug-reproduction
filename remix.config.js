@@ -5,5 +5,5 @@ module.exports = {
     serverMainFields: ["main", "module"], // default value, can be removed
     serverMinify: false, // default value, can be removed
     serverModuleFormat: "cjs", // default value, can be removed
-    serverPlatform: "node", // default value, can be removed
+    serverPlatform: "neutral", // default value, can be removed
   };

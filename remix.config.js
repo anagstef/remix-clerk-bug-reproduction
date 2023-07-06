@@ -4,6 +4,6 @@ module.exports = {
     serverBuildPath: "api/index.js",
     serverMainFields: ["main", "module"], // default value, can be removed
     serverMinify: false, // default value, can be removed
-    serverModuleFormat: "cjs", // default value, can be removed
+    serverModuleFormat: "esm", // default value, can be removed
     serverPlatform: "neutral", // default value, can be removed
   };
